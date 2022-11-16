@@ -38,3 +38,5 @@ Grop: Poets Of The Fall
 Year: 2006
 
 Rate: 10/10
+
+Album: Carnival Of Rust
